@@ -15,6 +15,6 @@ To create a 2D rasterizer for drawing scenes composed of polygons.
 ![](screenshots/screenshot02.PNG)
 * **Loading Scene(Draw Lines)**
 
-![](screenshots/screenshot03.PNG)
+  ![](screenshots/screenshot03.PNG)
 
 
